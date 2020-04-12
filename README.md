@@ -26,7 +26,7 @@ $ cd cmake-build-debug
 $ ccmake ../
 $ make 
 ```
-4. Run histogram filter unit tests
+4. Run all unit tests located in the `test` folder 
 ```
 $ bin/runAllTests
 ```
