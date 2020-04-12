@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.2)
-project(unit-test-exercise)
+project(google-test-mock-exercise)
 
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "${PROJECT_BINARY_DIR}/bin")
 set(CMAKE_ARCHIVE_OUTPUT_DIRECTORY "${PROJECT_BINARY_DIR}/lib")
